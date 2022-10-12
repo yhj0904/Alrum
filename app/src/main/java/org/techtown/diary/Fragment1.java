@@ -45,12 +45,7 @@ public class Fragment1 extends Fragment {
 
     @Override
     public void onDetach() {
-        super.onDetach();
-
-        if (context != null) {
-            context = null;
-            listener = null;
-        }
+       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     }
 
     @Override
